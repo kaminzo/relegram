@@ -1,3 +1,6 @@
 # Add tf-agents with reverb
 tf-agents[reverb]==0.19.0
-matplotlib
+gymnasium
+imageio==2.4.0
+pybullet
+tf-keras
